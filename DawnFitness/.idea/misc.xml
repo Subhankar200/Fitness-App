@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1525" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/drawable/backgroundcrop.xml" value="0.126" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/drawable/btn.xml" value="0.12" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/drawable/button_bg.xml" value="0.126" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/drawable/button_bg_round.xml" value="0.126" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/drawable/button_ji.xml" value="0.126" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1525" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_bow.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_bow2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_chair.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_chair2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_child.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_child2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_cobbler.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_cobbler2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_cow.xml" value="0.2078125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_cow2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_crunches.xml" value="0.2078125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_crunches2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_food.xml" value="0.19375" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_food2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_food_details.xml" value="0.136" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_main.xml" value="0.2078125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_pauseji.xml" value="0.2078125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_pauseji2.xml" value="0.1" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_plank.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_plank2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_playji.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_playji2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_rotation.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_rotation2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_second.xml" value="0.2078125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_second2.xml" value="0.2078125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_situp.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_situp2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_splashscreen.xml" value="0.2078125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_third.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_third2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_twist.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_twist2.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_windmill.xml" value="0.16593886462882096" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/activity_windmill2.xml" value="0.2712895377128954" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/ctivity_bridge.xml" value="0.20677083333333332" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/ctivity_bridge2.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/layout/row.xml" value="0.23125" />
+        <entry key="..\:/Users/subha/DawnFitness/app/src/main/res/menu/main.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
